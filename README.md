@@ -5,8 +5,8 @@ A simple and responsive BookList web app built using **HTML**, **CSS**, and **Ja
 ---
 
 ## 🚀 Live Demo
+👉 [Click here to view the live demo](https://maneesh004-code.github.io/booklist-app/)
 
-👉 [View Live Demo](https://maneesh004-code.github.io/booklist-app/)  
 
 ---
 
